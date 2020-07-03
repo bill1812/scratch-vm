@@ -49,8 +49,8 @@
     "worker-loader": "^1.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/preset-env": "^7.1.0",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
     "adm-zip": "0.4.11",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.4",
@@ -69,8 +69,8 @@
     "lodash.defaultsdeep": "4.6.1",
     "pngjs": "^3.3.2",
     "scratch-audio": "latest",
-    "scratch-blocks": "latest",
-    "scratch-l10n": "^3.1.20181129221712",
+    "scratch-blocks": "0.1.0-prerelease.20200630140237",
+    "scratch-l10n": "^3.10.20200624030914",
     "scratch-render": "latest",
     "scratch-storage": "^1.1.0",
     "scratch-svg-renderer": "latest",
